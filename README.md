@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Muhammad Aans
 
-- 👀 I’m interested in Soft Were engerning 
+- 👀 I’m interested in Soft Were Engineerin 
 - 🌱 I’m currently learning Web & App devlepment in Smit
 - Ask me About HTMl, CSS, Bootstrap,Java Script
 <!---
